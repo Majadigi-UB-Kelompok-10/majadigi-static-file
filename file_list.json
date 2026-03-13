@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Modern Service Page",
+    "pageLayouts": {
+      "modern service": "modern_service.json",
+      "stac screen": "stac_screen.json"
+    },
+    "description": "This is a modern service page",
+    "images": [
+      "skull.webp",
+      "siskaperbapo.webp"
+    ]
+  },
+  {
+    "title": "Stac Network Page Test",
+    "pageLayouts": {
+      "stac screen": "stac_screen.json",
+      "modern service": "modern_service.json"
+    },
+    "description": "Stac Network Page Test",
+    "images": [
+      "siskaperbapo.webp",
+      "skull.webp",
+      "siskaperbapo.webp"
+    ]
+  }
+]
